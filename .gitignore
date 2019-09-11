@@ -1,0 +1,8 @@
+.idea/
+SeereneAutomation.iml
+target/
+*.iml
+.allure/
+
+# It avoids tracking of snapshot evidences
+*.png
